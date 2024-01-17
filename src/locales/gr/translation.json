@@ -1,0 +1,15 @@
+{
+    "dice_game": "Würfelspiel",
+    "light": "Licht-modus",
+    "dark": "Dunkel-modus",
+    "click_start_to_roll_dice": "Klicken Sie auf Starten, um zu Würfeln.",
+    "yay!_you_have_won": "Yay! Du hast gewonnen",
+    "roll": "Rollen",
+    "time": "Zeit",
+    "start": "Starten",
+    "save": "Speichern",
+    "clear": "Löschen",
+    "you_can_click_save_to_save_your_score_to_your_storage": "Sie können auf Speichern klicken, um Ihre Punktzahl in Ihrem Speicher zu speichern",
+    "nothing_has_been_saved_yet": "Es wurde noch nichts gespeichert"
+}
+
